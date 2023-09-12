@@ -1,0 +1,63 @@
+*{
+	font-family: arial,sans-serif;
+}
+
+.logo{
+	top:3px;
+	width:50%;
+}
+
+.img { 
+	width: 70%; 
+	height: auto;
+}
+
+.title-text{
+	text-decoration: none;
+	color: black;
+	font-size:1.2vw;	
+}
+
+.video-titles {
+display:flex;
+margin: 2vh;
+padding-bottom: 5vw;
+}
+
+.side-bar_text{
+	color:black;
+	font-size:1vw;
+	text-decoration: none;
+}
+
+.side {
+	background-color:#a59e9e85;
+	width:15%;
+	text-align:center;
+	border-radius: 20px 20px 20px 20px;
+	min-width: 5rem;
+} 
+
+.content {
+	text-align:center;
+	margin-left:10px;/*サイドバーとメインコンテンツの間に隙間をあけた*/
+}
+
+article {
+	display:flex;/*サイドバーとメインコンテンツを横並びにする指定をした*/
+}
+
+.video-content{
+	display: block;
+}
+
+.side-bar-img{
+	width: 5vh;
+}
+
+  
+
+  
+
+
+  
